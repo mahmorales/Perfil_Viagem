@@ -43,15 +43,11 @@ Perfil_Viagem/
 └── README.md           # Este arquivo
 ```
 
-## Contribuição
-
-Contribuições são bem-vindas! Se você quiser melhorar o design, adicionar funcionalidades ou corrigir bugs, sinta-se à vontade para abrir uma issue ou enviar um pull request.
-
 ## Licença
 
 Este projeto é distribuído sob a licença MIT. Consulte o arquivo LICENSE para mais detalhes.
 
 ## Autor
 
-Desenvolvido por [Seu Nome]. Perfil de Isabela Torres criado como exemplo.</content>
+Desenvolvido por [Rocketseat]. Perfil de Isabela Torres criado como exemplo.</content>
 <parameter name="filePath">d:\Maisa\Full-stack\Projetos\Perfil_Viagem\README.md
