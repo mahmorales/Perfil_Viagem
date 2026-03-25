@@ -23,3 +23,7 @@ nav ul li:last-child img{ /*para avisar que vou pegar a última imagem*/
   border-radius: 50%; /*arrendodamento da borda para deixar circular*/
 }
 
+nav li {
+  font: var(--text);
+}
+
